@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+requests
+numpy
+pandas
+torch
+torchvision
+pillow
